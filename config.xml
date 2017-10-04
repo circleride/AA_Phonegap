@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="tk.alertaciudadana.app" version="1.0.0">
-<name>Alerta Ciudadana</name>
-<description>tk.alertaciudadana.app</description>
-<author href="http://app.alertaciudadana.tk" email="soporte@alertaciudadana.tk">Alerta Ciudadana</author>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="tk.alertaciudadana.anon" version="0.0.1">
+<name>Alerta Anónima</name>
+<description>App para realizar alertas anonimas</description>
+<author href="http://anon.alertaciudadana.tk" email="soporte@alertaciudadana.tk">AA</author>
 
 <!-- content src="index.html"/ -->
 <!--
