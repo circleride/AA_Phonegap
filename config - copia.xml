@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="tk.alertaciudadana.anon" version="0.0.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="tk.alertaciudadana.anon" version="0.1">
 <name>Alerta Anónima</name>
 <description>App para realizar alertas anonimas</description>
 <author href="http://anon.alertaciudadana.tk" email="soporte@alertaciudadana.tk">AA</author>
@@ -63,7 +63,7 @@
 <plugin name="cordova-plugin-imei"/>
 
 <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
-<param name="URL_SCHEME" value="alertaanonima" />
+<param name="URL_SCHEME" value="alertaciudadana" />
 </gap:plugin>
 
 <plugin name="phonegap-plugin-push" source="npm">
