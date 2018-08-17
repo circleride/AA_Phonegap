@@ -110,7 +110,7 @@ id="xyz.alerta.anon" version="0.0.1">
 <plugin spec="https://github.com/Litekey/heartbeat-cordova-plugin.git" source="git" /> -->
 
 <gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
-<gap:plugin name="cordova-plugin-background-app" source="npm" />
+<!-- <gap:plugin name="cordova-plugin-background-app" source="npm" /> -->
 <gap:plugin name="cordova-plugin-datepicker" source="npm" />
 
 <!--
