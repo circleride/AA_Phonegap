@@ -28,6 +28,7 @@ id="xyz.alerta.anon" version="0.0.1">
 <preference name="SplashScreenDelay" value="3000" />
 <preference name="AllowInlineMediaPlayback" value="true"/>
 <preference name="MediaPlaybackRequiresUserAction" value="false"/>
+<preference name="AndroidPersistentFileLocation" value="Compatibility" />
 
 <plugin name="cordova-plugin-battery-status" />
 <!--<plugin name="cordova-plugin-camera" spec="2.4.1" />
@@ -191,7 +192,7 @@ id="xyz.alerta.anon" version="0.0.1">
 </platform>
 
 <access origin="*"/>
-<plugin name="cordova-plugin-whitelist" />
+
 <allow-navigation href="*" />
 <allow-intent href="http://*/*" />
 <allow-intent href="https://*/*" />
