@@ -1,31 +1,27 @@
 {
   "project_info": {
-    "project_number": "2640760039",
-    "firebase_url": "https://evidenciaelectoral.firebaseio.com",
-    "project_id": "evidenciaelectoral",
-    "storage_bucket": "evidenciaelectoral.appspot.com"
+    "project_number": "619432595508",
+    "firebase_url": "https://alerta-anonima.firebaseio.com",
+    "project_id": "alerta-anonima",
+    "storage_bucket": "alerta-anonima.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:2640760039:android:e08c5684b2ea0215",
+        "mobilesdk_app_id": "1:619432595508:android:69cc356be59f9229",
         "android_client_info": {
-          "package_name": "com.evidenciaelectoral.app"
+          "package_name": "xyz.alerta.anon"
         }
       },
       "oauth_client": [
         {
-          "client_id": "2640760039-th0bn9klnhoheia0ppnpsh11bnidmvon.apps.googleusercontent.com",
-          "client_type": 3
-        },
-        {
-          "client_id": "2640760039-th0bn9klnhoheia0ppnpsh11bnidmvon.apps.googleusercontent.com",
+          "client_id": "619432595508-0svmfdgfo2ba2t1li17t3k94v9e8d1qp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAyt3E5bgqoROeTDQsmTGsaxpdFPvgiRvg"
+          "current_key": "AIzaSyAJKeQO9SfOFKUR1mBtUFhKQmVrj5Q8fRQ"
         }
       ],
       "services": {

@@ -1,8 +1,8 @@
 .topnavbar {
 border: 0;
-background-color: #82E89F !important;
-background-image: -webkit-linear-gradient(left, #82E89F, #82E89F);
-background-image: linear-gradient(90deg, #82E89F 0, #82E89F);
+background-color: #9e9e9e !important;
+background-image: -webkit-linear-gradient(left, #9e9e9e,#9e9e9e);
+background-image: linear-gradient(90deg, #9e9e9e 0, #9e9e9e);
 background-repeat: repeat-x;
 /* filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff23b7e5', endColorstr='#ff51c6ea', GradientType=1); */
 }
@@ -13,7 +13,7 @@ margin-top: 5px !important;
 }
 .navbar-brand {
 float: inherit !important;
-text-align: center !important;
+text-align: left !important;
 }
 .btn_menu_row {
 margin-bottom: 10px;
@@ -110,3 +110,5 @@ max-width: 100% !important; height: auto !important;
 text-decoration: none;
 margin-bottom: 20px;
 }
+
+.topnavbar .navbar-header .brand-logo { display: block; padding: 5px 15px; }
