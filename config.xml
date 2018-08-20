@@ -69,8 +69,8 @@ id="xyz.alerta.anon" version="0.0.1">
 <param name="URL_SCHEME" value="alerta-anonima" />
 </gap:plugin>
 
-<!-- <plugin name="phonegap-plugin-push" spec="~2.0.0" source="npm"> spec="~1.4.5" -->
-<plugin name="phonegap-plugin-push" source="npm">
+<!-- <plugin name="phonegap-plugin-push" source="npm"> spec="~1.4.5" -->
+<plugin name="phonegap-plugin-push" source="npm" spec="~2.0.0">
 <param name="SENDER_ID" value="619432595508" />
 </plugin>
 <platform name="android">
