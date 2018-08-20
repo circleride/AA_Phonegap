@@ -3,8 +3,8 @@
 <name>Alerta Anónima</name>
 <description>xyz.alerta.anon</description>
 <author href="http://anon.alerta.xyz" email="soporte@alerta.xyz">Alerta.xyz</author>
-<!--  value="cli-8.0.0" -->
-<preference name="phonegap-version" />
+<!--  -->
+<preference name="phonegap-version" value="cli-7.1.0" />
 <preference name="DisallowOverscroll" value="true"/>
 <preference name="android-minSdkVersion" value="15"/>
 <preference name="permissions"                value="none"/>
