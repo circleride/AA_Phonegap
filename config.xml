@@ -4,7 +4,7 @@
 <description>xyz.alerta.anon</description>
 <author href="http://anon.alerta.xyz" email="soporte@alerta.xyz">Alerta.xyz</author>
 
-<preference name="phonegap-version" value="cli-7.1.0" />
+<preference name="phonegap-version" value="cli-8.0.0" />
 <preference name="DisallowOverscroll" value="true"/>
 <preference name="android-minSdkVersion" value="14"/>
 <preference name="permissions"                value="none"/>
